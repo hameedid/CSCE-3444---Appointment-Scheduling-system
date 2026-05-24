@@ -2,7 +2,7 @@
 
 ##Team Members and Roles
 -Nesna Prasai - Documentation & Testing
--Asif Khan - 
+-Asif Khan - Back end
 -Genesis Enemuoh - Front end
 -Hamidat Oloko - Team Lead
 

@@ -4,7 +4,7 @@
 -Nesna Prasai- Documentation 
 -Asif Khan- 
 -Genesis- 
--Hanidat- 
+-Hamidat- 
 
 ##Project Description 
 This project is an Appointment Scheduling System that allows users to schedule, manage, and track appointments. 

@@ -6,6 +6,9 @@
 -Genesis- 
 -Hanidat- 
 
-## Project Description 
+##Project Description 
 This project is an Appointment Scheduling System that allows users to schedule, manage, and track appointments. 
 
+##Branch Structure 
+-main
+-dev

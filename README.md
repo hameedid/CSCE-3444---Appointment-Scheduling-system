@@ -1,4 +1,4 @@
-# CSCE-3444 - Appointment-Scheduling-system
+# CSCE-3444 - Medbook
 
 ## Team Members and Roles
 -  Nesna Prasai - Documentation & Testing

@@ -3,7 +3,7 @@
 This folder contains screenshots of the MedBook user interface used throughout the MedBook Appointment Scheduling System project.
 
 ## Login Page
-<img width="390" height="838" alt="Screenshot 2026-07-20 at 8 08 04 PM" src="https://github.com/user-attachments/assets/3b73c452-1535-489e-ac02-7bffce5719f5" />
+<img width="200" height="500" alt="Screenshot 2026-07-20 at 8 08 04 PM" src="https://github.com/user-attachments/assets/3b73c452-1535-489e-ac02-7bffce5719f5" />
 <img width="397" height="852" alt="Screenshot 2026-07-20 at 8 09 03 PM" src="https://github.com/user-attachments/assets/00e6963d-9b98-47ed-a9e8-f960baf48cf8" />
 
 ## Dashboard
